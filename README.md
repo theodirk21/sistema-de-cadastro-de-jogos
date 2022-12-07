@@ -5,5 +5,5 @@
 Projeto desenvolvido atrasvés de conhecimentos obitidos no curso de Git e Github da alura.
 
 ```
-npm instal react
+node app.js
 ```
